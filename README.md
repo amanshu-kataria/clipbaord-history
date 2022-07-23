@@ -1,2 +1,2 @@
-# clipbaord-history
+# clipboard-history
 Chrome Clipboard History
