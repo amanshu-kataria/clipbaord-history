@@ -19,7 +19,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "types": ["@types/chrome"],
+    "types": ["@types/chrome", "@types/node"],
     "typeRoots" : ["node_modules/@types", "./src/image.d.ts"],
   },
   "include": [
