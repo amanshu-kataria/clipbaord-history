@@ -24,8 +24,8 @@ function ClipboardHistory() {
       {history.length > 0 ? (
         <>
           <div className="history-title">
-            <img src={HistoryIcon} alt="history icon" />
-            <div>Your History</div>
+            <img height={'16px'} src={HistoryIcon} alt="history icon" />
+            <span>Text Copy History</span>
           </div>
           <div className="history-list">
             {history.map((item) => {
